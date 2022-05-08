@@ -1,5 +1,5 @@
 # School_District_Analysis
-##Overview of the school district analysis
+## Overview of the school district analysis
 The goal for this challenge was to analyze the school district’s data to study the student’s passing percentage in math and reading exams and its relation to the school type, size and spending budget. In particular, it was investigated how exclusion of the scores from 9th grade students from one high school may affect the results.
 
 ## Data screening  
@@ -38,11 +38,12 @@ The school   summary for all high schools is identical except for Thomas HS and 
 ## Thomas High School’s performance relative to the other schools
 The top 5 schools with the highest performances are listed in tables below for two cases (1) All students (2) after excluding 9th grade students from Thomas HS. This ranking is based on the overall passing percentages. It is noted that the Thomas HS is the 2nd best school when including all students. It is also noted the Thomas HS remains in 2nd place even after the 9th graders are excluded. The total overall passing percentage drops from 90.94% to 90.63% but that’s not a big shift and as result Thomas HS retains their 2nd place.
 
-![image](https://user-images.githubusercontent.com/58461542/167281797-a2b4cc7c-eaf6-4684-9c5d-c880fa85a0ed.png)
+![image](https://user-images.githubusercontent.com/58461542/167282171-c81e8495-8862-421c-a75d-4525fe6c6d74.png)
 ![image](https://user-images.githubusercontent.com/58461542/167281800-cd7b5da5-78df-4030-b71d-4944683057c5.png)
 
 ## Average math and reading scores by grade
 For each school, the average math and reading scores by grade are shown below (math: left, reading: right). As expected, the average scores for 9th graders of Thomas High School have not been calculated. 
+
 ![image](https://user-images.githubusercontent.com/58461542/167281805-814cdfc7-2339-44ba-8a75-e08be3a767dd.png)
 ![image](https://user-images.githubusercontent.com/58461542/167281807-139d387e-c330-4ec1-b922-a70d54f05135.png)
 ![image](https://user-images.githubusercontent.com/58461542/167281808-40937b78-47ba-4e1b-9ccf-529d6b6ec5c1.png)
@@ -60,7 +61,7 @@ The average scores and passing percentages based on the school size are presente
 
 
 
-##Average math and reading scores by school type
+## Average math and reading scores by school type
 Table below shows the average scores and passing percentages based on the school type. Charter schools seem to have a better performance than District schools.  It is noted the average scores and passing percentages are not affected much by excluding the scores for 9th graders of Thomas High School.
 ![image](https://user-images.githubusercontent.com/58461542/167281827-5cfcb795-9387-489c-a26d-1e24719d7b39.png)
 
